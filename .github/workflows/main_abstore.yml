@@ -63,4 +63,4 @@ jobs:
           app-name: 'abstore'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A18062FDF6964583BB481F1630CA9A2D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C79DBAF773104A7A95593F8D4854A88D }}
